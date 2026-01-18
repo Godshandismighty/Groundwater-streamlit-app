@@ -1,8 +1,8 @@
 import streamlit as st
 
-st.set_page_config(page_title="Groundwater Level Prediction")
+st.set_page_config(page_title="Ground water Level Prediction")
 
-st.title("Groundwater Level Prediction")
+st.title("Ground water Level Prediction")
 
 st.write("Enter the values below to predict groundwater level.")
 
